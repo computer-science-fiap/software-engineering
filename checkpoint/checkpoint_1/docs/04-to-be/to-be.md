@@ -64,7 +64,7 @@ flowchart TD
 | Financeiro | Prestação de contas manual | Relatórios e status de pagamento centralizados |
 | Governança | Dependente da memória do síndico | Histórico institucional, não depende de uma pessoa |
 
-## 4.7 Ganhos Esperados (consolidado)
+## 4.7 Ganhos Esperados
 
 **Redução de custos operacionais**
 - Menos tempo do síndico/zelador respondendo mensagens repetitivas;

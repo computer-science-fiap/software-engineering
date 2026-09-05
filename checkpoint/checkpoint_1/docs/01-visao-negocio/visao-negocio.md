@@ -16,8 +16,6 @@ Essa fragmentação gera:
 - Ausência de histórico centralizado;
 - Dependência excessiva da memória e disponibilidade do síndico/administrador.
 
-**Síntese:** informação fragmentada → erros e retrabalho → baixa transparência → insatisfação dos moradores e sobrecarga da gestão.
-
 ## 1.2 Oportunidade de Mercado
 
 - O mercado de gestão condominial ainda é atendido, em grande parte, por processos manuais ou por sistemas legados focados apenas em financeiro/boletos, sem cobrir comunicação e operação do dia a dia.

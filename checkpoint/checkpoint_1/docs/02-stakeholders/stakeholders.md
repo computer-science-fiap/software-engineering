@@ -2,7 +2,7 @@
 
 ## 2.1 Visão Geral
 
-O sistema possui 6 perfis de atores, cada um com necessidades, responsabilidades e níveis de acesso distintos. Essa segmentação é a base para o modelo de permissões (RBAC) que será detalhado na Visão Arquitetural.
+O sistema possui 6 perfis de atores, cada um com necessidades, responsabilidades e níveis de acesso distintos. (RBAC).
 
 ## 2.2 Matriz de Stakeholders
 
